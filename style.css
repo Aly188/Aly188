@@ -1,6 +1,6 @@
 /* Le style de la page d'acceuil */
 #body1{
-    background-image: url(images/Background/body1.jpeg);
+    background-image: url(body1.jpeg);
     background-repeat: no-repeat;
     padding: 0px;
     margin: 0px;
@@ -8,7 +8,7 @@
 }
 
 #entete{
-    background-image: url(images/background/navbar.jpg);
+    background-image: url(navbar.jpg);
     background-repeat: no-repeat;
     margin: auto;
     border-radius: 20px;
@@ -79,7 +79,7 @@
 }
 
 .paragraphe1{
-    background-image: url(images/Background/navbar.jpg);
+    background-image: url(navbar.jpg);
     background-repeat: no-repeat;
     margin: auto;
     text-align: center;
@@ -142,7 +142,7 @@
 }
 
 footer{
-    background-image: url(images/Background/navbar.jpg);
+    background-image: url(navbar.jpg);
     background-repeat: no-repeat;
     font-size: 25px;
     opacity: 0.8;
@@ -158,7 +158,7 @@ footer{
 
 /* Le style de la page "le tour de pise" */
 #body2{
-    background-image: url(images/Background/body2.jpg);
+    background-image: url(body2.jpg);
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -236,7 +236,7 @@ footer{
 
 /* Le style de la page " les statues de l'île de paques" */
 #body3{
-    background-image: url(images/Background/body3.jpg);
+    background-image: url(body3.jpg);
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -335,7 +335,7 @@ footer{
 
 /* Le style de la page "le taj mahal" */
 #body4{
-    background-image: url(images/Background/body4.jpeg);
+    background-image: url(body4.jpeg);
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -433,7 +433,7 @@ footer{
 
 /* Le style de la page "l'acropole d'athènes" */
 #body5{
-    background-image: url(images/Background/body5.jpg);
+    background-image: url(body5.jpg);
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -511,7 +511,7 @@ footer{
 
 /* Le style de la page "le burj khalifa" */
 #body6{
-    background-image: url(images/Background/body6.jfif);
+    background-image: url(body6.jfif);
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
